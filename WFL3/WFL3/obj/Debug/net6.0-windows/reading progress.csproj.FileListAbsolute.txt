@@ -1,0 +1,16 @@
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\bin\Debug\net6.0-windows\reading progress.exe
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\bin\Debug\net6.0-windows\reading progress.deps.json
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\bin\Debug\net6.0-windows\reading progress.runtimeconfig.json
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\bin\Debug\net6.0-windows\reading progress.dll
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\bin\Debug\net6.0-windows\reading progress.pdb
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\obj\Debug\net6.0-windows\WFL3.Form1.resources
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\obj\Debug\net6.0-windows\reading progress.csproj.GenerateResource.cache
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\obj\Debug\net6.0-windows\reading progress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\obj\Debug\net6.0-windows\reading progress.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\obj\Debug\net6.0-windows\reading progress.AssemblyInfo.cs
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\obj\Debug\net6.0-windows\reading progress.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\obj\Debug\net6.0-windows\reading progress.dll
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\obj\Debug\net6.0-windows\refint\reading progress.dll
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\obj\Debug\net6.0-windows\reading progress.pdb
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\obj\Debug\net6.0-windows\reading progress.genruntimeconfig.cache
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\obj\Debug\net6.0-windows\ref\reading progress.dll

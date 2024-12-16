@@ -1,0 +1,16 @@
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\bin\Debug\net6.0-windows\WFL3.exe
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\bin\Debug\net6.0-windows\WFL3.deps.json
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\bin\Debug\net6.0-windows\WFL3.runtimeconfig.json
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\bin\Debug\net6.0-windows\WFL3.dll
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\bin\Debug\net6.0-windows\WFL3.pdb
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\obj\Debug\net6.0-windows\WFL3.Form1.resources
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\obj\Debug\net6.0-windows\WFL3.csproj.GenerateResource.cache
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\obj\Debug\net6.0-windows\WFL3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\obj\Debug\net6.0-windows\WFL3.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\obj\Debug\net6.0-windows\WFL3.AssemblyInfo.cs
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\obj\Debug\net6.0-windows\WFL3.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\obj\Debug\net6.0-windows\WFL3.dll
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\obj\Debug\net6.0-windows\refint\WFL3.dll
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\obj\Debug\net6.0-windows\WFL3.pdb
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\obj\Debug\net6.0-windows\WFL3.genruntimeconfig.cache
+C:\Users\student\Desktop\sonix\C# Lesson\WFL3\WFL3\obj\Debug\net6.0-windows\ref\WFL3.dll

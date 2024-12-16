@@ -1,0 +1,16 @@
+C:\Users\student\Desktop\sonix\C# Lesson\Questionnaire\Questionnaire\bin\Debug\net6.0-windows\Questionnaire.exe
+C:\Users\student\Desktop\sonix\C# Lesson\Questionnaire\Questionnaire\bin\Debug\net6.0-windows\Questionnaire.deps.json
+C:\Users\student\Desktop\sonix\C# Lesson\Questionnaire\Questionnaire\bin\Debug\net6.0-windows\Questionnaire.runtimeconfig.json
+C:\Users\student\Desktop\sonix\C# Lesson\Questionnaire\Questionnaire\bin\Debug\net6.0-windows\Questionnaire.dll
+C:\Users\student\Desktop\sonix\C# Lesson\Questionnaire\Questionnaire\bin\Debug\net6.0-windows\Questionnaire.pdb
+C:\Users\student\Desktop\sonix\C# Lesson\Questionnaire\Questionnaire\obj\Debug\net6.0-windows\Questionnaire.Form1.resources
+C:\Users\student\Desktop\sonix\C# Lesson\Questionnaire\Questionnaire\obj\Debug\net6.0-windows\Questionnaire.csproj.GenerateResource.cache
+C:\Users\student\Desktop\sonix\C# Lesson\Questionnaire\Questionnaire\obj\Debug\net6.0-windows\Questionnaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\sonix\C# Lesson\Questionnaire\Questionnaire\obj\Debug\net6.0-windows\Questionnaire.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\sonix\C# Lesson\Questionnaire\Questionnaire\obj\Debug\net6.0-windows\Questionnaire.AssemblyInfo.cs
+C:\Users\student\Desktop\sonix\C# Lesson\Questionnaire\Questionnaire\obj\Debug\net6.0-windows\Questionnaire.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\sonix\C# Lesson\Questionnaire\Questionnaire\obj\Debug\net6.0-windows\Questionnaire.dll
+C:\Users\student\Desktop\sonix\C# Lesson\Questionnaire\Questionnaire\obj\Debug\net6.0-windows\refint\Questionnaire.dll
+C:\Users\student\Desktop\sonix\C# Lesson\Questionnaire\Questionnaire\obj\Debug\net6.0-windows\Questionnaire.pdb
+C:\Users\student\Desktop\sonix\C# Lesson\Questionnaire\Questionnaire\obj\Debug\net6.0-windows\Questionnaire.genruntimeconfig.cache
+C:\Users\student\Desktop\sonix\C# Lesson\Questionnaire\Questionnaire\obj\Debug\net6.0-windows\ref\Questionnaire.dll
